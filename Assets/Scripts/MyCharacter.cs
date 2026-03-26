@@ -28,7 +28,7 @@ public class MyCharacter : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Health -= 2;
+            Health += 2;
         }
 
         if (Health <= 0)
