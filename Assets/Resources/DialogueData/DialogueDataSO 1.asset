@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad2c51007087a184eb993a16306bbbbf, type: 3}
+  m_Name: DialogueDataSO 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueDataSO
+  characterName: "\uB808\uBAAC"
+  characterImage: {fileID: 21300000, guid: 61e60c5bd20d67d459d7504d351b45d9, type: 3}
+  dialogueLines:
+  - "\uB808\uBAAC1\uB808\uBAAC1\uB808\uBAAC1\uB808\uBAAC1\uB808\uBAAC1\uB808\uBAAC1\uB808\uBAAC1"
+  - "\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2\uB808\uBAAC2"
+  - "\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3\uB808\uBAAC3"
